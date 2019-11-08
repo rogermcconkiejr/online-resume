@@ -1,0 +1,126 @@
+body{
+    margin:10px;
+}
+div{
+    border:1px solid red;
+}
+.name{
+    display:flex;
+    justify-content:center;
+}
+.imgCont{
+    display:flex;
+    justify-content:center;
+}
+
+.selfie {
+    height:200px;
+}
+.personal{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bio{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.columns{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: linear-gradient(#000, #000) no-repeat center/2px 100%;
+}
+.eduHead11{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.eduHead12{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.eduHead21{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.eduHead22{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.jobHead11{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.jobHead12{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.jobHead21{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.jobHead22{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.jobHead31{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}.jobHead32{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.volHead11{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.volHead12{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.volHead21{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+.volHead22{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.personal p{
+    margin:1px;
+}
+
+.education h3{
+    border-bottom:1px solid black;
+}
+.workExperience h3{
+    border-bottom:1px solid black;
+}
+.volExperience h3{
+    border-bottom:1px solid black;
+}
